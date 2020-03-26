@@ -1,0 +1,12 @@
+h1 {font-family: Garamond; background-color: blue; text-align: center;border: 5px green double;}
+img 
+{display: block;margin-left: auto;
+margin-right:auto;width: 50%;}
+img 
+{border: 5px double #ddd;
+border-radius: 800%;
+padding: 7px;
+width: 350px;
+border-color: blue}
+blockquote {background-color: blue}
+p {background-color: green}
